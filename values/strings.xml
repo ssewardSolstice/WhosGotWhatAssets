@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhosGotWhat</string>
+
+    <string name="android">Android</string>
+    <string name="iphone">iPhone</string>
+</resources>
