@@ -1,0 +1,3 @@
+[submodule "WhosGotWhat"]
+	path = WhosGotWhat
+	url = git@github.com:ssewardSolstice/WhosGotWhat.git
